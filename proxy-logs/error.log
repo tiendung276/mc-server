@@ -1,0 +1,74 @@
+2025/10/17 16:42:55 [error] 29#29: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:42:55 [error] 29#29: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:42:55 [error] 29#29: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:42:55 [error] 29#29: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:42:57 [error] 29#29: *9 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:42:57 [error] 29#29: *11 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:42:57 [error] 29#29: *13 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:42:57 [error] 29#29: *15 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:43:11 [error] 29#29: *17 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:43:11 [error] 29#29: *19 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:43:11 [error] 29#29: *21 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:43:11 [error] 29#29: *23 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:43:12 [error] 29#29: *25 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:43:12 [error] 29#29: *27 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:43:12 [error] 29#29: *29 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:43:12 [error] 29#29: *31 connect() failed (111: Connection refused) while connecting to upstream, client: 116.98.51.24, server: 0.0.0.0:25565, upstream: "172.18.0.2:25565", bytes from/to client:0/0, bytes from/to upstream:0/0
+2025/10/17 16:43:15 [error] 29#29: *33 access forbidden by rule while initializing session, client: 176.65.134.12, server: 0.0.0.0:25565
+2025/10/17 16:44:09 [error] 29#29: *38 access forbidden by rule while initializing session, client: 104.28.249.55, server: 0.0.0.0:25565
+2025/10/17 16:44:10 [error] 29#29: *39 access forbidden by rule while initializing session, client: 104.28.249.55, server: 0.0.0.0:25565
+2025/10/17 16:44:13 [error] 29#29: *40 access forbidden by rule while initializing session, client: 104.28.249.55, server: 0.0.0.0:25565
+2025/10/17 16:44:17 [error] 29#29: *41 access forbidden by rule while initializing session, client: 104.28.249.55, server: 0.0.0.0:25565
+2025/10/17 16:44:17 [error] 29#29: *42 access forbidden by rule while initializing session, client: 104.28.249.55, server: 0.0.0.0:25565
+2025/10/17 16:44:21 [error] 29#29: *43 access forbidden by rule while initializing session, client: 104.28.249.55, server: 0.0.0.0:25565
+2025/10/17 16:44:22 [error] 29#29: *44 access forbidden by rule while initializing session, client: 104.28.249.55, server: 0.0.0.0:25565
+2025/10/17 16:44:34 [error] 29#29: *49 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:34 [error] 29#29: *50 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:34 [error] 29#29: *51 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:35 [error] 29#29: *54 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:35 [error] 29#29: *55 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:35 [error] 29#29: *60 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:35 [error] 29#29: *63 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:35 [error] 29#29: *68 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:35 [error] 29#29: *69 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:36 [error] 29#29: *74 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:36 [error] 29#29: *75 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:36 [error] 29#29: *80 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:36 [error] 29#29: *81 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:36 [error] 29#29: *82 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:36 [error] 29#29: *91 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/17 16:44:36 [error] 29#29: *92 access forbidden by rule while initializing session, client: 192.168.1.240, server: 0.0.0.0:25565
+2025/10/19 11:03:49 [emerg] 38#38: bind() to 0.0.0.0:25565 failed (98: Address already in use)
+2025/10/19 11:03:49 [emerg] 38#38: bind() to 0.0.0.0:25565 failed (98: Address already in use)
+2025/10/19 11:03:49 [emerg] 38#38: bind() to 0.0.0.0:25565 failed (98: Address already in use)
+2025/10/19 11:03:49 [emerg] 38#38: bind() to 0.0.0.0:25565 failed (98: Address already in use)
+2025/10/19 11:03:49 [emerg] 38#38: bind() to 0.0.0.0:25565 failed (98: Address already in use)
+2025/10/19 11:03:49 [emerg] 38#38: still could not bind()
+2025/10/20 12:56:52 [emerg] 1#1: invalid parameter "$allowed" in /etc/nginx/nginx.conf:39
+2025/10/20 12:56:53 [emerg] 1#1: invalid parameter "$allowed" in /etc/nginx/nginx.conf:39
+2025/10/20 12:56:53 [emerg] 1#1: invalid parameter "$allowed" in /etc/nginx/nginx.conf:39
+2025/10/20 12:56:54 [emerg] 1#1: invalid parameter "$allowed" in /etc/nginx/nginx.conf:39
+2025/10/20 12:56:55 [emerg] 1#1: invalid parameter "$allowed" in /etc/nginx/nginx.conf:39
+2025/10/20 12:56:58 [emerg] 1#1: invalid parameter "$allowed" in /etc/nginx/nginx.conf:39
+2025/10/20 12:57:02 [emerg] 1#1: invalid parameter "$allowed" in /etc/nginx/nginx.conf:39
+2025/10/20 12:57:09 [emerg] 1#1: invalid parameter "$allowed" in /etc/nginx/nginx.conf:39
+2025/10/20 12:57:22 [emerg] 1#1: invalid parameter "$allowed" in /etc/nginx/nginx.conf:39
+2025/10/20 12:57:44 [emerg] 1#1: "if" directive is not allowed here in /etc/nginx/nginx.conf:40
+2025/10/20 12:57:45 [emerg] 1#1: "if" directive is not allowed here in /etc/nginx/nginx.conf:40
+2025/10/20 12:57:45 [emerg] 1#1: "if" directive is not allowed here in /etc/nginx/nginx.conf:40
+2025/10/20 12:57:46 [emerg] 1#1: "if" directive is not allowed here in /etc/nginx/nginx.conf:40
+2025/10/20 12:57:46 [emerg] 1#1: "if" directive is not allowed here in /etc/nginx/nginx.conf:40
+2025/10/20 12:57:48 [emerg] 1#1: "if" directive is not allowed here in /etc/nginx/nginx.conf:40
+2025/10/20 12:57:54 [emerg] 1#1: "if" directive is not allowed here in /etc/nginx/nginx.conf:40
+2025/10/20 12:58:00 [emerg] 1#1: "if" directive is not allowed here in /etc/nginx/nginx.conf:40
+2025/10/20 12:58:13 [emerg] 1#1: "if" directive is not allowed here in /etc/nginx/nginx.conf:40
+2025/10/20 12:58:39 [emerg] 1#1: "if" directive is not allowed here in /etc/nginx/nginx.conf:40
+2025/10/20 12:59:13 [emerg] 1#1: unknown directive "proxy_tcp_nodelay" in /etc/nginx/nginx.conf:40
+2025/10/20 12:59:14 [emerg] 1#1: unknown directive "proxy_tcp_nodelay" in /etc/nginx/nginx.conf:40
+2025/10/20 12:59:14 [emerg] 1#1: unknown directive "proxy_tcp_nodelay" in /etc/nginx/nginx.conf:40
+2025/10/20 12:59:15 [emerg] 1#1: unknown directive "proxy_tcp_nodelay" in /etc/nginx/nginx.conf:40
+2025/10/20 12:59:16 [emerg] 1#1: unknown directive "proxy_tcp_nodelay" in /etc/nginx/nginx.conf:40
+2025/10/20 12:59:18 [emerg] 1#1: unknown directive "proxy_tcp_nodelay" in /etc/nginx/nginx.conf:40
+2025/10/20 12:59:21 [emerg] 1#1: unknown directive "proxy_tcp_nodelay" in /etc/nginx/nginx.conf:40
+2025/10/20 12:59:28 [emerg] 1#1: unknown directive "proxy_tcp_nodelay" in /etc/nginx/nginx.conf:40
+2025/10/20 12:59:41 [emerg] 1#1: unknown directive "proxy_tcp_nodelay" in /etc/nginx/nginx.conf:40

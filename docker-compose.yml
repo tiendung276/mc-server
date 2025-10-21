@@ -1,0 +1,54 @@
+services:
+  proxy:
+    image: nginx:latest
+    container_name: mc-proxy
+    ports:
+      - "25565:25565"
+    volumes:
+      - ./nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./proxy-logs:/var/log/nginx
+    networks:
+      - mcnet
+    depends_on:
+      - mc
+    restart: unless-stopped
+
+  mc:
+    image: itzg/minecraft-server:latest
+    container_name: mc
+    environment:
+      EULA: "TRUE"
+      VERSION: "1.21.10"
+      TYPE: FABRIC 
+      MEMORY: "6G"
+      ONLINE_MODE: "FALSE"
+      DIFFICULTY: "3"
+      FORCE_GAMEMODE: "true"
+      MOTD: "Dun Minecraft Server"
+      ALLOW_FLIGHT: TRUE
+      OPS: |-
+        tdun
+      RCON_PASSWORD: "securepassword123"
+      MODRINTH_PROJECTS: |-
+        lithium
+        fabric-api
+      #RESOURCE_PACK: "/home/tdun/Desktop/My Projects/Minecraft/mc-v1.21.10/data-packs/spawnanimations-v1.11.2-mc1.17-1.21.10-datapack.zip"
+      #RESOURCE_PACK_REQUIRED: "true"
+      RCON_CMDS_STARTUP: |
+        gamerule keepInventory true
+    tty: true
+    stdin_open: true
+    volumes:
+      - ./mc-data:/data
+      - ./mods:/data/mods
+    networks:
+      - mcnet
+    restart: unless-stopped
+
+networks:
+  mcnet:
+    driver: bridge
+
+
+
+
