@@ -32,7 +32,7 @@ services:
       MODRINTH_PROJECTS: |-
         lithium
         fabric-api
-      #RESOURCE_PACK: "/home/tdun/Desktop/My Projects/Minecraft/mc-v1.21.10/data-packs/spawnanimations-v1.11.2-mc1.17-1.21.10-datapack.zip"
+      #RESOURCE_PACK: "/home/s/Desktop/My Projects/Minecraft/mc-v1.21.10/data-packs/spawnanimations-v1.11.2-mc1.17-1.21.10-datapack.zip"
       #RESOURCE_PACK_REQUIRED: "true"
       RCON_CMDS_STARTUP: |
         gamerule keepInventory true
